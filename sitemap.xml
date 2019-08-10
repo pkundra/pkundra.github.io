@@ -7,17 +7,17 @@
   </url>
   
   <url>
-    <loc>pkundra.github.io/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>pkundra.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>pkundra.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>pkundra.github.io/</loc>
     <priority>0</priority>
   </url>
   
